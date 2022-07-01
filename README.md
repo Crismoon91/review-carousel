@@ -4,4 +4,4 @@ Carrusel de reviews realizado con JavaScript en los proyectos de Freecodecamp.
 
 Puedes verlo en:
 
-https://review-carousel-cris.netlify.app/
+
